@@ -127,6 +127,7 @@ persist.rild.nitz_short_ons_3=
 
 # Perf
 ro.vendor.extension_library=libqti-perfd-client.so
+sys.use_fifo_ui=1
 
 # Radio
 DEVICE_PROVISIONED=1
