@@ -190,7 +190,7 @@ framework/com.qti.location.sdk.jar
 framework/izat.xt.srv.jar
 lib64/liblocationservice_jni.so
 lib64/libxt_native.so
-lib64/vendor.qti.gnss@1.0.so
+lib64/vendor.qti.gnss@1.0.so|9cd37e085c2eead3ab950088fe7af9af816ea42b
 -priv-app/com.qualcomm.location/com.qualcomm.location.apk
 vendor/bin/hw/vendor.qti.gnss@1.0-service
 vendor/bin/loc_launcher
@@ -227,7 +227,7 @@ vendor/lib64/libslimclient.so
 vendor/lib64/libulp2.so
 vendor/lib64/libxtadapter.so
 vendor/lib64/libxtwifi_ulp_adaptor.so
-vendor/lib64/vendor.qti.gnss@1.0_vendor.so
+vendor/lib64/vendor.qti.gnss@1.0_vendor.so|a6f73814072b4a398abded030f0156faa8ed252b
 
 # Graphics - from SRT Phone - 8.0
 vendor/lib/egl/eglSubDriverAndroid.so|7ebcccbadde865ec130378c5c0f866049d420c3a
