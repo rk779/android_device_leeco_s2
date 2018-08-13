@@ -158,7 +158,10 @@ persist.radio.force_on_dc=true
 persist.radio.redir_party_num=0
 persist.radio.start_ota_daemon=1
 
-# TCP
+# RescueParty
+persist.sys.disable_rescue=true
+
+# Tcp
 net.tcp.2g_init_rwnd=10
 
 # Time Services
