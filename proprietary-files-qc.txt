@@ -195,7 +195,7 @@ lib64/vendor.qti.gnss@1.0.so|9cd37e085c2eead3ab950088fe7af9af816ea42b
 vendor/bin/hw/vendor.qti.gnss@1.0-service
 vendor/bin/loc_launcher
 vendor/bin/lowi-server
-vendor/bin/slim_daemon
+vendor/bin/slim_daemon|7dc9534cf2ba7d6831070039498962aba9b7bc77
 vendor/bin/xtra-daemon
 vendor/bin/xtwifi-client
 vendor/bin/xtwifi-inet-agent
